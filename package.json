@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "ejs": "^6.0.1",
     "express": "^5.2.1"
   },
   "name": "seriousbuisnessl",
   "version": "1.0.0",
   "description": "Landing Site for Ad",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
